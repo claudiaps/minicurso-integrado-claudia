@@ -1,5 +1,5 @@
 # minicurso-integrado
-Repositório criado para o minicurso de git na faculdade integrado
+Repositório criado para o minicurso de git na faculdade integrado- Amanda
 
 ## Heading 2
 
